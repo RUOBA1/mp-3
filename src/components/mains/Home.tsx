@@ -20,7 +20,7 @@ export const StyledMain = styled.main`
     }
 `;
 
-export const StyledH2 = styled.h2`
+export const StyledH1 = styled.h2`
     font-size: 26px;
     margin: 20px 0;
     padding: 5px 0;
